@@ -1,7 +1,7 @@
 # Project Overview
 
 **Course:** ENSE 271, People-Centred Design, University of Regina, Fall 2026
-**Team:** Group Beta
+**Team:** Group B
 **Client:** AIDS Programs South Saskatchewan (APSS)
 **Project sponsor:** Dr. Tim Maciag
 **Date:** October 9, 2026

@@ -1,6 +1,6 @@
 # APSS Research Website & Main Site Redesign
 
-**ENSE 271: People-Centred Design · University of Regina · Fall 2026 · Group Beta**
+**ENSE 271: People-Centred Design · University of Regina · Fall 2026 · Group B**
 
 A people-centred design project for **AIDS Programs South Saskatchewan (APSS)**. We are designing a new research website for APSS and proposing a redesign of its main website. Both will be built in WordPress.
 
@@ -31,10 +31,10 @@ APSS has worked with the University of Regina on research projects connected to 
 
 | Name | Student number |
 |---|---|
-| Jacob Liu | <!-- add Jacob's student number --> |
+| Jacob Liu | 200486100 |
 | Mohammed Saad Shaik | 200528151 |
 | Aubin Chriss Izere | 200490675 |
-| Jesse Ichibor | <!-- add Jesse's student number --> |
+| Jesse Ichibor | 200523782 |
 
 **Project sponsor and instructor:** Dr. Tim Maciag
 **Lab instructor:** Brooklyn Coulson
