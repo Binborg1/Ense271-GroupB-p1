@@ -5,8 +5,8 @@ Jacob Liu · Mohammed Saad Shaik · Aubin Chriss Izere · Jesse Ichibor
 
 This page links our paper prototypes to four people-centred design topics from class. The sketches are:
 
-- Jacob: main site home page ([sketch](../06-low-fi-prototypes/wireFrame_sketch1.png))
-- Mohammed: research site home, publications and menus, 3 pages ([sketch](<../06-low-fi-prototypes/Mohammed S Shaik lo-fi wireframe .pdf>))
+- Jacob: main site home page ([sketch](../06-low-fi-prototypes/low-fi_main-home_jacob.jpg))
+- Mohammed: research site home, publications and menus, 3 pages ([sketch](../06-low-fi-prototypes/low-fi_research-site_mohammed.pdf))
 - Aubin: research site home page ([sketch](../06-low-fi-prototypes/low-fi_research-home_aubin.jpg))
 - Jesse: main site home and research site home
 
