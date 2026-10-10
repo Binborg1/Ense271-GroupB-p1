@@ -8,7 +8,7 @@ This page links our paper prototypes to four people-centred design topics from c
 - Jacob: main site home page ([sketch](../06-low-fi-prototypes/low-fi_main-home_jacob.jpg))
 - Mohammed: research site home, publications and menus, 3 pages ([sketch](../06-low-fi-prototypes/low-fi_research-site_mohammed.pdf))
 - Aubin: research site home page ([sketch](../06-low-fi-prototypes/low-fi_research-home_aubin.jpg))
-- Jesse: main site home and research site home
+- Jesse: main site home ([sketch](../06-low-fi-prototypes/low-fi_main-home_jesse.pdf)) and research site home ([sketch](../06-low-fi-prototypes/low-fi_research-home_jesse.pdf))
 
 ## 1. Affordances and signifiers
 
