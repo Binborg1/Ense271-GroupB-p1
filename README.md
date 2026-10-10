@@ -29,12 +29,10 @@ APSS has worked with the University of Regina on research projects connected to 
 
 ## Team
 
-| Name | Student number |
-|---|---|
-| Jacob Liu | 200486100 |
-| Mohammed Saad Shaik | 200528151 |
-| Aubin Chriss Izere | 200490675 |
-| Jesse Ichibor | 200523782 |
+- Jacob Liu
+- Mohammed Saad Shaik
+- Aubin Chriss Izere
+- Jesse Ichibor
 
 **Project sponsor and instructor:** Dr. Tim Maciag
 **Lab instructor:** Brooklyn Coulson
