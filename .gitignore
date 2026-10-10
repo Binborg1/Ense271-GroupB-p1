@@ -1,0 +1,7 @@
+# Office lock files (created while a .pptx/.docx is open)
+~$*
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
