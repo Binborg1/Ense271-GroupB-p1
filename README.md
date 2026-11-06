@@ -76,10 +76,10 @@ All dates are in 2026. Files are due at 11:59 pm. Folders are numbered in the or
   user-story-map/
 
 3-wordpress-website-and-status-report/      WordPress work in progress
-  status-report/
-  demo/
-  user-story-map/
-  customer-notes/
+  check-in-presentation/     Deck from the November 4 check-in, as PDF and PowerPoint
+  status-report/             Project status report
+  user-story-map/            StoriesOnBoard export with MVP
+  customer-notes/            Summarized customer notes
 
 4-final-presentation-and-lessons-learned/   Final delivery
   final-presentation/
@@ -91,6 +91,7 @@ Files are named in lowercase with hyphens, in the order `type_topic_author`, for
 
 ## Links
 
+- Our live WordPress site: <https://groupb.ursse.ca>
 - APSS website: <https://aidsprogramssouthsask.com/>
 - reportneedles.ca: <https://reportneedles.ca>
 - Figma hi-fi prototype (file): <https://www.figma.com/design/P5gvW1SbBHGL6MCEED0zX2>
