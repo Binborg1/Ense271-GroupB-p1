@@ -48,17 +48,17 @@ APSS has worked with the University of Regina on research projects connected to 
 
 | Activity | Focus | Customer check-in | Files due | Folder |
 |---|---|---|---|---|
-| 1 | Observe, frame and brainstorm (low fidelity) | Oct 7 | Oct 9 | [activity-1-research-and-low-fi-design](activity-1-research-and-low-fi-design/) |
-| 2 | High-fidelity prototype and usability evaluation | Oct 21 | Oct 23 | [activity-2-hi-fi-prototype-and-usability-testing](activity-2-hi-fi-prototype-and-usability-testing/) |
-| 3 | WordPress work in progress and status report | Nov 4 | Nov 6 | [activity-3-wordpress-status-report](activity-3-wordpress-status-report/) |
-| 4 | Final product delivery and report-out | Dec 2 | Dec 4 | [activity-4-final-delivery](activity-4-final-delivery/) |
+| 1 | Observe, frame and brainstorm (low fidelity) | Oct 7 | Oct 9 | [1-user-research-and-early-designs](1-user-research-and-early-designs/) |
+| 2 | High-fidelity prototype and usability evaluation | Oct 21 | Oct 23 | [2-clickable-prototype-and-user-testing](2-clickable-prototype-and-user-testing/) |
+| 3 | WordPress work in progress and status report | Nov 4 | Nov 6 | [3-wordpress-website-and-status-report](3-wordpress-website-and-status-report/) |
+| 4 | Final product delivery and report-out | Dec 2 | Dec 4 | [4-final-presentation-and-lessons-learned](4-final-presentation-and-lessons-learned/) |
 
-All dates are in 2026. Files are due at 11:59 pm.
+All dates are in 2026. Files are due at 11:59 pm. Folders are numbered in the order we did the work, and each number matches its course activity.
 
 ## Repository structure
 
 ```
-activity-1-research-and-low-fi-design/     Observe, frame and brainstorm
+1-user-research-and-early-designs/          Observe, frame and brainstorm
   project-overview/          Team, background, customers, assumptions, constraints
   empathy-maps/
   affinity-diagram/
@@ -69,19 +69,19 @@ activity-1-research-and-low-fi-design/     Observe, frame and brainstorm
   user-story-map/            StoriesOnBoard export with MVP
   customer-check-in/         Check-in slides and summarized customer notes
 
-activity-2-hi-fi-prototype-and-usability-testing/   High-fidelity prototype and usability evaluation
+2-clickable-prototype-and-user-testing/     High-fidelity prototype and usability evaluation
   hi-fi-prototype/           PDF export of the Figma prototype, links and photo credits
   usability-testing/         Questionnaire (6 tasks, 4 questions) and the deck we presented
   usability-insights/        Results of the October 21 test
   user-story-map/
 
-activity-3-wordpress-status-report/        WordPress work in progress
+3-wordpress-website-and-status-report/      WordPress work in progress
   status-report/
   demo/
   user-story-map/
   customer-notes/
 
-activity-4-final-delivery/                 Final delivery
+4-final-presentation-and-lessons-learned/   Final delivery
   final-presentation/
   customer-notes/
   report-out-and-lessons-learned/
